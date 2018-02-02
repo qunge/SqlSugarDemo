@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SqlSugar.Model;
+using SqlSugar;
 
 namespace SqlSugar.Framework
 {
